@@ -1,9 +1,8 @@
 # tauri-example
 
-
 ```sh
-git clone &&
-cd &&
+git clone git@github.com:SimonSiefke/tauri-example.git &&
+cd tauri-example &&
 npm ci &&
-
+npm run dev
 ```
